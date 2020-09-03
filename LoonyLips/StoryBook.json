@@ -1,0 +1,10 @@
+[
+    {
+    "prompts" : ["a name", "a game", "an adjective", "a thing"],
+    "stories" : "Once upon a time, %s played %s and thought it was the %s %s of all time"
+    },
+    {
+        "prompts" : ["a place", "a food", "a random restaurant name", "a pet name"],
+        "stories" : "Once upon a time, in the %s, there was a special dish known as a %s, being served at %s, the biggest shop there, for some reason a pet named %s was eating there, with his owner"
+    }
+    ]
